@@ -5,6 +5,10 @@ Can reliably put and retrieve large files from remote DFS servers with fail-over
 
 # Usage
   
+  
+## Building
+Requires openssl development libraries and pthreads. Make file provided.
+
 ## Client  
 Client: ./dfc \<config file\>  
   
